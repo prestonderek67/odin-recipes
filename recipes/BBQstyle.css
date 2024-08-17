@@ -1,0 +1,31 @@
+/*BBQGrilledCheese stylesheet*/
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+p {
+    color: chocolate;
+    font-size: 24px;
+}
+
+.header {
+    color: aqua;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.sub {
+    font-size: 30px;
+}
+
+.list {
+    font-size: 24px;
+    color: yellow;
+}
+
+img {
+    border: aqua;
+    border-style: double;
+}

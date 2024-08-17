@@ -1,0 +1,22 @@
+/*style sheet for index.html for Odin-recipes*/
+
+* {
+    text-align: center;
+    background: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    font-size: 40px;
+    font-weight: bold;
+    color: aqua;
+}
+
+.list {
+    font-size: 24px;
+    color: green;
+}
+
+.link {
+    background-color: bisque;
+}
