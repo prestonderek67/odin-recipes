@@ -18,5 +18,37 @@
 }
 
 .link {
-    background-color: bisque;
+    color: aqua;
+}
+
+.headerDiv {
+    border: 5px;
+    border-style: groove;
+    border-color: antiquewhite;
+    margin: 50px 50px;
+}
+
+.listDiv {
+    border: 5px;
+    border-style: groove;
+    border-color: antiquewhite;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.item {
+    padding: 5px;
+}
+
+.one {
+    margin-right: 600px;
+}
+
+.two {
+    list-style-position: inside;
+}
+
+.three {
+    margin-left: 600px;
+    list-style-position: inside;
 }
